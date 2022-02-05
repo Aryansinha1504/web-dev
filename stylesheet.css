@@ -1,0 +1,20 @@
+ body{
+            background-color:red;
+        }
+        #first
+        {
+            background-color:blue;
+            color: white;
+        }
+        #second {
+            background-color :tomato;
+            color : green;
+        }
+        h1{
+            color:rebeccapurple;
+            font-size:xx-large;
+        }
+        p{
+            background-color:brown;
+            color:cornsilk;
+        }
